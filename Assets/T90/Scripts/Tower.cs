@@ -3,7 +3,7 @@ using UnityEngine;
 public class Tower : MonoBehaviour {
     [SerializeField] private float _mouseSens;
     [SerializeField] private Transform _tankTower;
-    [SerializeField] private float _xRotation = 0f;
+    //[SerializeField] private float _xRotation = 0f;
     void Start() {
 
     }
